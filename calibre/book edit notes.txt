@@ -1,2 +1,2 @@
 regexp to find misplaced paragraph breaks:
-((n.t)|(i>)|([a-zA-Z]|(\.\.\.)|(.\d)|\s|,|;|-|'|\d|\/){2})<\/p>\s*<p class="calibre1">
+(([a-zA-Z].s)|(n.t)|(i>)|([a-zA-Z]|(\.\.\.)|(.\d)|\s|,|;|-|'|\d|\/){2})<\/p>\s*<p class="calibre1">>
