@@ -2,7 +2,7 @@ regexp to find misplaced paragraph breaks:
 (([a-zA-Z].[a-zA-Z])|(i>)|([a-zA-Z]|(\.\.\.)|(\.\d)|\s|,|;|-|'|\d|\/){2})<\/p>\s*<p class="calibre1">
 
 for continuing from a quotation:
-(”|")\s*<\/p>\s*<p class="calibre1">[a-z] (broken atm as regex is unable to differentiate between upper and lower case)
+(”|")\s*<\/p>\s*<p class="calibre1">[a-z]
 
 for removing "\n":
 
